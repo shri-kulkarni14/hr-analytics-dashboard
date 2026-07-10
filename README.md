@@ -44,4 +44,4 @@ The organization needed visibility into workforce composition, attrition pattern
 3. Open [/powerbi/HR_Analytics_Dashboard.pbix](powerbi/HR_Analytics_Dashboard.pbix) in Power BI Desktop
   
 ## Author
-Shridevi Kulkarni -[LinkedIn](https://www.linkedin.com/in/shridevi-kulkarni-14sk) - shrikulkarni142001@gmail.com
+Shridevi Kulkarni -[LinkedIn](https://www.linkedin.com/in/shridevi-kulkarni-data-analyst) - shrikulkarni142001@gmail.com
