@@ -44,15 +44,15 @@ The organization needed visibility into workforce composition, attrition pattern
 
 ## Dashboard Pages
 - **Executive Overview** - company-wide KPIs at a glance
-  ![Executive Overvie](images/page1_executive_overview.png) 
+![Executive Overvie](images/page1_executive_overview.png) 
 - **Workforce Composition** - department, state, and race breakdown
-  ![Workforce Composition](images/page2_workforce_composition.png)
+![Workforce Composition](images/page2_workforce_composition.png)
 - **Attrition & Tenure** - who's leaving, and when
-  ![Attrition & Tenure](images/page3_attrition_tenure.png)
+![Attrition & Tenure](images/page3_attrition_tenure.png)
 - **Diversity & Inclusion** - gender and race composition by department
-  ![Diversity & Inclusion](images/page4_diversity_inclusion.png)
+![Diversity & Inclusion](images/page4_diversity_inclusion.png)
 
-  ---
+---
   
 ## Recommendations
 
