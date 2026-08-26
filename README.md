@@ -1,5 +1,9 @@
 # HR Analytics Dashboard
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 A complete HR workforce analysis covering 22,214 employee records — from raw data cleaning
 to an interactive 4-page Power BI dashboard, built to answer real business questions
 around headcount, attrition, and diversity.
@@ -40,13 +44,13 @@ The organization needed visibility into workforce composition, attrition pattern
 
 ## Dashboard Pages
 - **Executive Overview** - company-wide KPIs at a glance
-  !(images/page1_executive_overview.png)
+  ![Executive Overvie](images/page1_executive_overview.png) 
 - **Workforce Composition** - department, state, and race breakdown
-  !(images/page2_workforce_composition.png)
+  ![Workforce Composition](images/page2_workforce_composition.png)
 - **Attrition & Tenure** - who's leaving, and when
-  !(images/page3_attrition_tenure.png)
+  ![Attrition & Tenure](images/page3_attrition_tenure.png)
 - **Diversity & Inclusion** - gender and race composition by department
-  !(images/page4_diversity_inclusion.png)
+  ![Diversity & Inclusion](images/page4_diversity_inclusion.png)
 
   ---
   
